@@ -41,3 +41,7 @@ margin-bottom: 80px ;
 
 }
 
+.main-skill{
+  display: flex;
+  gap: 30px;
+}
